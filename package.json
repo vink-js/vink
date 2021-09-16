@@ -1,0 +1,20 @@
+{
+  "name": "vink",
+  "version": "0.1.0",
+  "description": "Vink is a framework of editor for web",
+  "author": "lianghang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vink-js/vink.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vink-js/vink/issues"
+  },
+  "homepage": "https://github.com/vink-js/vink#readme"
+}
